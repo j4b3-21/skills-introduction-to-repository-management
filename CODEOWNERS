@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @j4b3-21
+/src/backend/database.py      @j4b3-21
+/src/backend/routers/auth.py  @j4b3-21
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @j4b3-21
